@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+adding new line in feature2
+=======
 git file added
+>>>>>>> 070af013f96e1d2aa1d2d0e1af70d77f484de31c
